@@ -1,0 +1,33 @@
+payload:
+  - DOMAIN,film.ohhhh.org # NMEmby
+  - DOMAIN,emby.aca.best # ACA Emby
+  - DOMAIN,porn.aca.best #  ACA Pron Emby
+  - DOMAIN,stream.ntrrr.top # SYN Emby
+  - DOMAIN,e01.811920.xyz # TDD Emby
+  - DOMAIN,free.xmsl.org # 垃圾影音 - 中转线路
+  - DOMAIN,cf.emby.ml # 垃圾影音 - CF线路
+  - DOMAIN,emby.pilipiliultra.top # PiliPili - 主线路
+  - DOMAIN,emby.pilipiliultra.com # PiliPili - CF路
+  - DOMAIN,stream1.misakaf.org # MisakaF
+  - DOMAIN,stream2.misakaf.org # MisakaF
+  - DOMAIN,stream3.misakaf.org # MisakaF
+  - DOMAIN,stream4.misakaf.org # MisakaF
+  - DOMAIN,shenmi.link # JMS
+  - DOMAIN,789.123456.al # TreeDiagram
+  - DOMAIN,emby-mica-us-v1.mius.uk # 牢大
+  - DOMAIN,sadsafsfsafsadas.mius.uk # 牢大 SG线路
+  - DOMAIN,emby-mica-hk-v4.mius.uk # 牢大 HK线路
+  - DOMAIN,emby-mica-yxvm-hk-v4.mius.uk # 牢大 HK2线路
+  - DOMAIN,emby-mica-hk3-v4.mius.uk # 牢大 HK3线路
+  - DOMAIN,hka-emby.aliz.work # hkr
+  - DOMAIN,emby.9191001.xyz # 放映厅
+  - DOMAIN,tv.811861.xyz # AWA
+  - DOMAIN,emby.awatv.de # AWA New
+  - DOMAIN,music1.awatv.de # AWA Music
+  - DOMAIN,z.sfcj.org # 非越 IPV4
+  - DOMAIN,v6.sfcj.org # 非越 IPV6
+  - DOMAIN,cf.sfcj.org # 非越 CF线路
+  - DOMAIN,eggtartemby.itsmyduty.top # 墨白
+  - DOMAIN,pub1.emby.wtf # 终点站大妹
+  - DOMAIN,pub2.emby.wtf # 终点站二妹
+  - DOMAIN,pub3.emby.wtf # 终点站三妹
