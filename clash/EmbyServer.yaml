@@ -31,3 +31,5 @@ payload:
   - DOMAIN,pub1.emby.wtf # 终点站大妹
   - DOMAIN,pub2.emby.wtf # 终点站二妹
   - DOMAIN,pub3.emby.wtf # 终点站三妹
+  - DOMAIN,music.mefun.org, # 未响音乐服
+  - DOMAIN,emusica.91bp.us.kg # 鹅服音乐服 
