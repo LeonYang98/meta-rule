@@ -23,6 +23,7 @@ payload:
   - DOMAIN,emby.9191001.xyz # 放映厅
   - DOMAIN,tv.811861.xyz # AWA
   - DOMAIN,emby.awatv.de # AWA New
+  - DOMAIN,movie.emby-v.com # AWA 三网
   - DOMAIN,music1.awatv.de # AWA Music
   - DOMAIN,z.sfcj.org # 非越 IPV4
   - DOMAIN,v6.sfcj.org # 非越 IPV6
