@@ -11,16 +11,11 @@ payload:
   - DOMAIN,emby.awatv.de # AWA New
   - DOMAIN,movie.emby-v.com # AWA 三网
   - DOMAIN,music1.awatv.de # AWA Music
-  - DOMAIN,z.sfcj.org # 非越 IPV4
-  - DOMAIN,v6.sfcj.org # 非越 IPV6
-  - DOMAIN,cf.sfcj.org # 非越 CF线路
+  - DOMAIN-SUFFIX,sfcj.org # 非越 CF线路
   - DOMAIN,eggtartemby.itsmyduty.top # 墨白
   - DOMAIN,lalarpjp.cyn.news # 墨白2
   - DOMAIN,lalarp.cyn.news # 墨白3
-  - DOMAIN,lum.clun.top # 墨白4
-  - DOMAIN,lumia.clun.top #墨白5
-  - DOMAIN,pub1.emby.wtf # 终点站大妹
-  - DOMAIN,pub2.emby.wtf # 终点站二妹
-  - DOMAIN,pub3.emby.wtf # 终点站三妹
+  - DOMAIN-SUFFIX,lum.clun.top # 墨白4
+  - DOMAIN-SUFFIX,emby.wtf # 终点站大妹
   - DOMAIN,misty.cx # Misty
-  - DOMAIN-SUFFIX,313445.xyz # fac
+  - DOMAIN-SUFFIX,313445.xyz # faC
