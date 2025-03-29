@@ -247,3 +247,6 @@ payload:
 
   # Cloudflare云存储
   - DOMAIN-SUFFIX,cloudflarestorage.com
+  
+  # DanDan弹幕
+  - DOMAIN,api.dandanplay.net
