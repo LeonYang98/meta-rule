@@ -245,5 +245,8 @@ payload:
   - DOMAIN,object.gundamevolution.jp
   - DOMAIN,object-web.gundamevolution.jp
 
+  # porn
+  - DOMAIN-SUFFIX,surrit.com
+
   # Cloudflare云存储
   - DOMAIN-SUFFIX,cloudflarestorage.com
