@@ -250,3 +250,6 @@ payload:
 
   # Cloudflare云存储
   - DOMAIN-SUFFIX,cloudflarestorage.com
+
+  # Emby 直连
+  - DOMAIN-SUFFIX,lum.clun.top
