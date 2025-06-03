@@ -22,3 +22,4 @@ payload:
   - DOMAIN,kessoku-bando.biliblili.uk # 乐队
   - DOMAIN,emby.yunti.online # 云梯
   - DOMAIN-SUFFIX,onyra.uk
+  - DOMAIN,ap-cn01.emby.bangumi.ca # nya
