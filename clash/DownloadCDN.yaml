@@ -250,6 +250,7 @@ payload:
   # Emby 直连
   - DOMAIN-SUFFIX,lum.clun.top
   - DOMAIN-SUFFIX,ll.myhxgzw.fun
+  - DOMAIN,nya.simonvan.space
 
   # GoogleFCM
   - DOMAIN,alt1-mtalk.google.com
