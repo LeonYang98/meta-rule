@@ -251,6 +251,7 @@ payload:
   - DOMAIN-SUFFIX,lum.clun.top
   - DOMAIN-SUFFIX,ll.myhxgzw.fun
   - DOMAIN,nya.simonvan.space
+  - DOMAIN,ap-cn01.emby.bangumi.ca
 
   # GoogleFCM
   - DOMAIN,alt1-mtalk.google.com
