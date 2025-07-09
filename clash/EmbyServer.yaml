@@ -1,21 +1,10 @@
 payload:
   - DOMAIN,shenmi.link # JMS
   - DOMAIN,789.123456.al # TreeDiagram
-  - DOMAIN,emby-mica-us-v1.mius.uk # 牢大
-  - DOMAIN,9tp2a-4n2vj-5qdzw.biliblili.uk # 牢大 HK线路
-  - DOMAIN,n4byr-4nahh-ffd3j.biliblili.uk # 牢大 HK2线路
-  - DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk # 牢大 HK3线路
   - DOMAIN,hka-emby.aliz.work # hkr
   - DOMAIN,emby.9191001.xyz # 放映厅
-  - DOMAIN,tv.811861.xyz # AWA
-  - DOMAIN,emby.awatv.de # AWA New
-  - DOMAIN,movie.emby-v.com # AWA 三网
-  - DOMAIN,music1.awatv.de # AWA Music
   - DOMAIN-SUFFIX,sfcj.org # 非越 CF线路
   - DOMAIN,eggtartemby.itsmyduty.top # 墨白
-  - DOMAIN,ll.myhxgzw.fun # 墨白2
-  - DOMAIN,ll.gaijiaofan.xyz # 墨白3
-  - DOMAIN-SUFFIX,lum.clun.top # 墨白4
   - DOMAIN-SUFFIX,emby.wtf # 终点站大妹
   - DOMAIN,misty.cx # Misty
   - DOMAIN-SUFFIX,313445.xyz # faC
@@ -25,3 +14,4 @@ payload:
   - DOMAIN,emby.bangumi.ca # nya
   - DOMAIN,emby1.123456789.lol # 影迹
   - DOMAIN,cf.5msky.com # Msky
+  - DOMAIN,emby.zn.al # Zn
