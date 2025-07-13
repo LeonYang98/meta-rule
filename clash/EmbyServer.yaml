@@ -14,5 +14,5 @@ payload:
   - DOMAIN,emby.bangumi.ca # nya
   - DOMAIN,emby1.123456789.lol # 影迹
   - DOMAIN,cf.5msky.com # Msky
-  - DOMAIN,emby.zn.al # Zn
+  - DOMAIN-SUFFIX,zn.al # Zn
   - DOMAIN,kfc.v50.su # KFC
