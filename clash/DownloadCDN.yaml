@@ -248,7 +248,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflarestorage.com
 
   # Emby 直连
-  - DOMAIN-SUFFIX,clun.top
+  - DOMAIN,lum-v4.clun.top
   - DOMAIN-SUFFIX,myhxgzw.fun
   - DOMAIN,emby.movier.ink
   - DOMAIN,ap-cn01.emby.bangumi.ca
