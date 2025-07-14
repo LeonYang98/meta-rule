@@ -15,4 +15,4 @@ payload:
   - DOMAIN,emby1.123456789.lol # 影迹
   - DOMAIN,cf.5msky.com # Msky
   - DOMAIN-SUFFIX,zn.al # Zn
-  - DOMAIN,kfc.v50.su # KFC
+  - DOMAIN-SUFFIX,v50.su # KFC
