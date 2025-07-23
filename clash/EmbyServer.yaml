@@ -19,4 +19,4 @@ payload:
   - DOMAIN,zoxfree.3767483.xyz # Zoxfree
   - DOMAIN,lite.cn2gias.uk # Snp
   - DOMAIN-SUFFIX,staryuki.me # Star
-  - DOMAIN,emby.hohai.eu.org # HoHai
+  - DOMAIN-SUFFIX,hohai.eu.org # HoHai
