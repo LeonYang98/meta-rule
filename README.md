@@ -1,2 +1,2 @@
 # meta-rule
-mihomo自用配置
+代理自用配置
