@@ -1,36 +1,72 @@
-+.sfcj.org	# Feiyue
-eggtartemby.itsmyduty.top	# LL
-+.emby.wtf	# ZDZ
-misty.cx	# Misty
-+.313445.xyz	# Fac
-micro.cr18.eu.org	# jms
-emby.liminalnet.com	# Limi
-emby.bangumi.ca	# Nya
-cf.5msky.com	# Msky
-+.term.wtf	# Zdz
-+.emos.lol	# ？
-zoxfree.3767483.xyz	# Zoxfree
-+.cn2gias.uk	# Snpt
-+.staryuki.me	# Star
-+.hohai.eu.org	# HoHai
-public.shrekmedia.org	# Shrek
-+.biliblili.uk	# 结束
-playz.mjji.de	# PlayZ
-emby3.mcjoker.xyz	# 叔服
-emby.191920.xyz	# ich
-+.mebimmer.de	# ME
-+.6666456.xyz	# Yunti
-fworks-emby.webn.cc	# Fworks1
-fworks-emby.sylu.net	# Fworks2
+# Feiyue
++.sfcj.org
+# LL
+eggtartemby.itsmyduty.top
+# ZDZ
++.emby.wtf
+# Misty
+misty.cx
+# Fac
++.313445.xyz
+# jms
+micro.cr18.eu.org
+# Limi
+emby.liminalnet.com
+# Nya
+emby.bangumi.ca
+# Msky
+cf.5msky.com
+# Zdz
++.term.wtf
+# ？
++.emos.lol
+# Zoxfree
+zoxfree.3767483.xyz
+# Snpt
++.cn2gias.uk
+# Star
++.staryuki.me
+# HoHai
++.hohai.eu.org
+# Shrek
+public.shrekmedia.org
+# 结束
++.biliblili.uk
+# PlayZ
+playz.mjji.de
+# 叔服
+emby3.mcjoker.xyz
+# ich
+emby.191920.xyz
+# ME
++.mebimmer.de
+# Yunti
++.6666456.xyz
+# Fworks1
+fworks-emby.webn.cc
+# Fworks2
+fworks-emby.sylu.net
+# 
 +.apple-cdn.net
-+.jingzhe.pro	# Jingzhe
-+.nebula-media.org	# Nebula
-us.nanflix.net	# Nanflix
-gy.meowfly.de	# Feimiao
-shouer.910427.xyz	# Budao
-+.emby.my	# Mooncake
-+.wenjian.de	# Wenjian
-+.mefun.org	# 未响音乐服
-+.aiinyue.com	# 音海拾贝
-emusica.dhyy.eu.org	# 鹅服
-audio.hsu.life	# 稳健书
+# Jingzhe
++.jingzhe.pro
+# Nebula
++.nebula-media.org
+# Nanflix
+us.nanflix.net
+# Feimiao
+gy.meowfly.de
+# Budao
+shouer.910427.xyz
+# Mooncake
++.emby.my
+# Wenjian
++.wenjian.de
+# 未响音乐服
++.mefun.org
+# 音海拾贝
++.aiinyue.com
+# 鹅服
+emusica.dhyy.eu.org
+# 稳健书
+audio.hsu.life
